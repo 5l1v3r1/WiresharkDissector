@@ -61,7 +61,7 @@ do
 	local f_slot = ProtoField.uint8("Minecraft.slot","Slot",base.HEX)
 	local f_winid = ProtoField.uint8("Minecraft.winid","Window ID",base.HEX)
 	local f_count = ProtoField.uint16("Minecraft.count","Count",base.HEX)
-	local f_s_count = ProtoField.uint8("Minecraft.scount","Count",base.HEX)
+	local f_s_count = ProtoField.uint8("Minecraft.scount","Scount",base.HEX)
 	local f_action = ProtoField.uint8("Minecraft.action","Action",base.HEX)
 	local f_playernum = ProtoField.uint8("Minecraft.playernum","Player Number",base.HEX)
 	local f_binary_uuid = ProtoField.bytes("Minecraft.bin_uuid","UUID",base.HEX)
