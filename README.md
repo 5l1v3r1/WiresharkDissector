@@ -18,3 +18,6 @@ Setup
 2. Open ‘init.lua’ in your wireshark root directory. Comment the line ‘disable_lua = true’ or change it to ‘disable_lua = false’.
 3. Add 'dofile(DATA_DIR.."Minecraft.lua")' into 'init.lua'
 
+Blog:
+For more details about Minecraft please read blog "ATI Minecraft" on Ixia website (http://www.ixiacom.com/about-us/news-events/corporate-blog/ati-minecraft).
+
