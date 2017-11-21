@@ -19,5 +19,4 @@ Setup
 3. Add 'dofile(DATA_DIR.."Minecraft.lua")' into 'init.lua'
 
 Blog:
-For more details about Minecraft please read blog "ATI Minecraft" on Ixia website (http://www.ixiacom.com/about-us/news-events/corporate-blog/ati-minecraft).
-
+For more details about Minecraft please read Ixia Official blog [ATI Minecraft]:https://www.ixiacom.com/company/blog/ati-minecraft .
